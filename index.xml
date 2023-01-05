@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>顾佳榕的网页</title>
+    <link>1512551851.github.io/</link>
+    <description>Recent content on 顾佳榕的网页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>1512551851@qq.com (顾佳榕)</managingEditor>
+    <webMaster>1512551851@qq.com (顾佳榕)</webMaster>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="1512551851.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my personal website</title>
+      <link>1512551851.github.io/2023/01/welcome-to-my-personal-website/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <author>1512551851@qq.com (顾佳榕)</author>
+      <guid>1512551851.github.io/2023/01/welcome-to-my-personal-website/</guid>
+      <description>&lt;p&gt;岁月极美，在于它必然的流逝。春花、秋月、夏日、冬雪。你若盛开，清风自来。心若浮沉，浅笑安然。
+                                                  ——三毛《雨季不再来》&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>校园里的猫猫</title>
+      <link>1512551851.github.io/2022/12/%E6%A0%A1%E5%9B%AD%E9%87%8C%E7%9A%84%E7%8C%AB%E7%8C%AB/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <author>1512551851@qq.com (顾佳榕)</author>
+      <guid>1512551851.github.io/2022/12/%E6%A0%A1%E5%9B%AD%E9%87%8C%E7%9A%84%E7%8C%AB%E7%8C%AB/</guid>
+      <description>&lt;p&gt;  苏州大学的校园里有很多可爱的小猫，每一只都有着自己的性格和特点。他们会出现在图书馆、教师、林荫小道、食堂……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何在Markdown插入视频</title>
+      <link>1512551851.github.io/2022/12/%E5%A6%82%E4%BD%95%E5%9C%A8markdown%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <author>1512551851@qq.com (顾佳榕)</author>
+      <guid>1512551851.github.io/2022/12/%E5%A6%82%E4%BD%95%E5%9C%A8markdown%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</guid>
+      <description>&lt;p&gt;  之前markdown里可以直接插入html语句，但是版本更新过后已经不可以直接在markdown里面写了。因此，在markdown里插入视频需要使用新的方法。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>出游日记</title>
+      <link>1512551851.github.io/2022/11/%E5%87%BA%E6%B8%B8%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <author>1512551851@qq.com (顾佳榕)</author>
+      <guid>1512551851.github.io/2022/11/%E5%87%BA%E6%B8%B8%E6%97%A5%E8%AE%B0/</guid>
+      <description>&lt;p&gt;2022年，虽然受疫情影响，但还是有快乐玩耍，美美吃饭~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Great City of Helv</title>
+      <link>1512551851.github.io/2022/03/the-great-city-of-helv/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <author>1512551851@qq.com (顾佳榕)</author>
+      <guid>1512551851.github.io/2022/03/the-great-city-of-helv/</guid>
+      <description>&lt;p&gt; Suzhou was founded as the capital of the Wu Kingdom in the sixth century BC by King HeLv.In 514 BC, He Lv&amp;rsquo;s Prime Minister, Wu Zixu, was ordered to reconstruct the capital, which wascompleted in 508 BC.This was the beginning of the city as it stands today.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>《盗梦空间》观后感</title>
+      <link>1512551851.github.io/2020/11/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4%E8%A7%82%E5%90%8E%E6%84%9F/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <author>1512551851@qq.com (顾佳榕)</author>
+      <guid>1512551851.github.io/2020/11/%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4%E8%A7%82%E5%90%8E%E6%84%9F/</guid>
+      <description>&lt;p&gt;  费里尼曾说过：“梦，是唯一的现实。”或许正是以此为依据，才有了诺兰的《盗梦空间》。在这里，梦，不仅是超现实的存在，也是个人深层意识的反应。梦，超脱现实而又凌驾于现实。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
